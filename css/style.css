@@ -7,7 +7,7 @@ body{
 	text-align: center;
 	margin-bottom: 20px;
 	color: blue;
-	font-family: sans-serif;
+	font-family: 'Asset', cursive;
 }
 
 .image {
@@ -24,12 +24,9 @@ body{
 	color: white;
 }
 
-
-
 img {
 	width: 100%;
 }
-
 
 .one{
 	width: 32.33%;

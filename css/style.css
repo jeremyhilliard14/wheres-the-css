@@ -1,0 +1,60 @@
+body{
+	background-color: gray;
+}
+
+#gallery-wrapper h1{
+	font-size: 50px;
+	text-align: center;
+	margin-bottom: 20px;
+	color: blue;
+}
+
+.image {
+	float: left;
+	width: 32.33%;
+	padding: .5%;
+}
+
+.caption{
+	position: relative;
+	text-align: center;
+	background-color: blue;
+	width: 100%;
+	color: white;
+}
+
+.potrait img{
+	width: 100%;
+}
+
+.landscape img{
+	width: 100%;
+}
+
+.five{
+	margin-top: 4%;
+}
+
+.four{
+	margin-top: 4%;
+}
+
+.six{
+	clear: both;
+}
+
+.extra-stuff{
+	background-color: blue;
+	color: white;
+	float: left;
+	width: 32.33%;
+	font-size: 20px;
+	text-align: center;
+	padding: 10% 0;
+	margin-left: .5%;
+	margin-top: .5%;
+}
+.wide-image .landscape{
+	width: 100%;
+}
+

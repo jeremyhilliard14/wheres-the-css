@@ -7,9 +7,10 @@ body{
 	text-align: center;
 	margin-bottom: 20px;
 	color: blue;
+	font-family: 'Asset', cursive;
 }
 
-.image{
+.image {
 	float: left;
 	width: 32.33%;
 	padding: .5%;
@@ -23,20 +24,20 @@ body{
 	color: white;
 }
 
-.potrait img{
+img {
 	width: 100%;
 }
 
-.landscape img{
-	width: 100%;
+.one{
+	width: 32.33%;
 }
 
 .five{
-	margin-top: 4%;
+	margin-top: 3.3%;
 }
 
 .four{
-	margin-top: 4%;
+	margin-top: 3.3%;
 }
 
 .six{
@@ -50,11 +51,7 @@ body{
 	width: 32.33%;
 	font-size: 20px;
 	text-align: center;
-	padding: 10% 0;
+	padding: 10.75% 0;
 	margin-left: .5%;
 	margin-top: .5%;
 }
-.wide-image .landscape{
-	width: 100%;
-}
-
